@@ -5,8 +5,8 @@ import styles from './App.module.css';
 function App() {
   return (
     <div className={styles.app}>
-      <Post imageUrl="https://www.orangeboxminiaturas.com.br/img/products/batmovel-1989-figura-batman-em-metal-jada-toys-1-24-jad-98260_1_1000.jpg">
-        Olha só que legal minha miniatura do Batmóvel.
+      <Post imageUrl="https://images.tcdn.com.br/img/img_prod/747391/miniatura_mclaren_ford_mp4_8_ayrton_senna_winner_european_gp_1993_1_18_minichamps_2775_1_d9fa140bcc83ef70904182592c3d86f8.jpeg">
+        Miniatura Mclaren Ayrton Senna.
       </Post>
     </div>
   );
